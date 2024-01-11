@@ -1,5 +1,5 @@
-const divide = (a, b) => a / b;
+const divide = (x,b) => x / b;
 
-const square = x => x ** 2;
+const square = x => x * x;
 
-const add = (a, b) => a + b;
+const add = (x,a) => x + a
